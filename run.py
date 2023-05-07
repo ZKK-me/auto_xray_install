@@ -161,7 +161,7 @@ echo "Xray Restarted"
     "servers": [
       "https+local://1.1.1.1/dns-query",
       "localhost"
-    ] 
+    ]
   }},
   "routing": {{
     "domainStrategy": "IPIfNonMatch",
